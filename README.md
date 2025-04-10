@@ -74,28 +74,25 @@ RESOLVR is an AI-powered platform that transforms claims processing workflows in
 
 ## 🖼️ Screenshots
 
-### Landing Page  
-![Landing Page](https://github.com/user-attachments/assets/0e406c99-c443-4bd1-bc3b-5c85a54b6f0a)
+### Core Screens
 
-### Dashboard Overview  
-![Dashboard](https://github.com/user-attachments/assets/035f4d2a-de77-41ca-acc1-beebd708fa17)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0e406c99-c443-4bd1-bc3b-5c85a54b6f0a" alt="Landing Page" width="45%" />
+  <img src="https://github.com/user-attachments/assets/035f4d2a-de77-41ca-acc1-beebd708fa17" alt="Dashboard" width="45%" />
+</div>
 
-### Complaint Summary  
-![Complaints](https://github.com/user-attachments/assets/74d275cb-44ad-42ee-baf9-60589df259a6)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/74d275cb-44ad-42ee-baf9-60589df259a6" alt="Complaint Summary" width="45%" />
+  <img src="https://github.com/user-attachments/assets/08133bf4-e309-496d-a3c5-0d51713f4b1d" alt="AI Logs" width="45%" />
+</div>
 
-### Transcripts + AI Logs  
-![AI Logs](https://github.com/user-attachments/assets/08133bf4-e309-496d-a3c5-0d51713f4b1d)
+### Insights & Scheduling
 
-### Analysis  
-![Analysis](https://github.com/user-attachments/assets/1c428b54-8ad9-4c12-bf96-1e1e056615b8)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1c428b54-8ad9-4c12-bf96-1e1e056615b8" alt="Analysis" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f9cfb257-df08-4910-bcdc-c71af1b77edb" alt="Call Scheduler" width="45%" />
+</div>
 
-### Call Scheduling  
-![Call Scheduler](https://github.com/user-attachments/assets/f9cfb257-df08-4910-bcdc-c71af1b77edb)
-
-
-### Call Scheduling
-![Call scheduler](![image](https://github.com/user-attachments/assets/f9cfb257-df08-4910-bcdc-c71af1b77edb)
-)
 
 
 ---
