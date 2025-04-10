@@ -28,8 +28,8 @@ RESOLVR is an AI-powered platform that transforms claims processing workflows in
 
 ## 🧪 Architecture Overview
 
-![Architecture Diagram](![image](https://github.com/user-attachments/assets/e5268bda-7730-4058-963f-d9feb2595298)
-)
+![Architecture Diagram](https://github.com/user-attachments/assets/e5268bda-7730-4058-963f-d9feb2595298)
+
 
 > RESOLVR follows a modular and scalable design, powered by FastAPI (backend), Next.js (frontend), and PostgreSQL. Integration with Redis, Twilio, FAISS, and Whisper ensures real-time intelligence and rapid responses.
 
@@ -77,21 +77,22 @@ RESOLVR is an AI-powered platform that transforms claims processing workflows in
 ### Core Screens
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0e406c99-c443-4bd1-bc3b-5c85a54b6f0a" alt="Landing Page" width="45%" />
-  <img src="https://github.com/user-attachments/assets/035f4d2a-de77-41ca-acc1-beebd708fa17" alt="Dashboard" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0e406c99-c443-4bd1-bc3b-5c85a54b6f0a" alt="Landing Page" style="width: 500px; height: 300px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/035f4d2a-de77-41ca-acc1-beebd708fa17" alt="Dashboard" style="width: 500px; height: 300px; margin: 10px;" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/74d275cb-44ad-42ee-baf9-60589df259a6" alt="Complaint Summary" width="45%" />
-  <img src="https://github.com/user-attachments/assets/08133bf4-e309-496d-a3c5-0d51713f4b1d" alt="AI Logs" width="45%" />
+  <img src="https://github.com/user-attachments/assets/74d275cb-44ad-42ee-baf9-60589df259a6" alt="Complaint Summary" style="width: 500px; height: 300px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/08133bf4-e309-496d-a3c5-0d51713f4b1d" alt="AI Logs" style="width: 500px; height: 300px; margin: 10px;" />
 </div>
 
 ### Insights & Scheduling
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1c428b54-8ad9-4c12-bf96-1e1e056615b8" alt="Analysis" width="45%" />
-  <img src="https://github.com/user-attachments/assets/f9cfb257-df08-4910-bcdc-c71af1b77edb" alt="Call Scheduler" width="45%" />
+  <img src="https://github.com/user-attachments/assets/1c428b54-8ad9-4c12-bf96-1e1e056615b8" alt="Analysis" style="width: 500px; height: 300px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/f9cfb257-df08-4910-bcdc-c71af1b77edb" alt="Call Scheduler" style="width: 500px; height: 300px; margin: 10px;" />
 </div>
+
 
 
 
