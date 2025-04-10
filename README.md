@@ -74,11 +74,10 @@ RESOLVR is an AI-powered platform that transforms claims processing workflows in
 
 ## 🖼️ Screenshots
 
-### Core Screens
+### Core Screen
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0e406c99-c443-4bd1-bc3b-5c85a54b6f0a" alt="Landing Page" style="width: 500px; height: 300px; margin: 10px;" />
-  <img src="https://github.com/user-attachments/assets/035f4d2a-de77-41ca-acc1-beebd708fa17" alt="Dashboard" style="width: 500px; height: 300px; margin: 10px;" />
 </div>
 
 <div align="center">
