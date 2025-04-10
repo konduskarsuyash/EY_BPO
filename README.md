@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/035f4d2a-de77-41ca-acc1-beebd708fa17)
 # RESOLVR: AI Workflow Automation for Indian BPOs
 
 RESOLVR is an AI-powered platform that transforms claims processing workflows in Indian BPOs. It automates customer interactions using real-time transcription, sentiment analysis, and intelligent callback scheduling to deliver faster, cost-effective resolutions—boosting agent productivity and client satisfaction.
@@ -29,7 +28,8 @@ RESOLVR is an AI-powered platform that transforms claims processing workflows in
 
 ## 🧪 Architecture Overview
 
-![Architecture Diagram](./screenshots/architecture.png)
+![Architecture Diagram](![image](https://github.com/user-attachments/assets/e5268bda-7730-4058-963f-d9feb2595298)
+)
 
 > RESOLVR follows a modular and scalable design, powered by FastAPI (backend), Next.js (frontend), and PostgreSQL. Integration with Redis, Twilio, FAISS, and Whisper ensures real-time intelligence and rapid responses.
 
@@ -68,20 +68,34 @@ RESOLVR is an AI-powered platform that transforms claims processing workflows in
 5. **Multimodal AI Voice Agent**
 6. **Admin Dashboard & Logs**
 7. **Employee Role Management**
-8. **Geolocation & WhatsApp Integration**
+8. **WhatsApp Integration**
 
 ---
 
 ## 🖼️ Screenshots
 
+### Landing Page 
+![Landing Page](![image](https://github.com/user-attachments/assets/0e406c99-c443-4bd1-bc3b-5c85a54b6f0a)
+)
+
 ### Dashboard Overview  
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/035f4d2a-de77-41ca-acc1-beebd708fa17)
 
 ### Complaint Summary  
-![Complaints](./screenshots/complaints.png)
+![Complaints](![image](https://github.com/user-attachments/assets/74d275cb-44ad-42ee-baf9-60589df259a6))
 
 ### Transcripts + AI Logs  
-![AI Logs](./screenshots/ai-logs.png)
+![AI Logs](![image](https://github.com/user-attachments/assets/08133bf4-e309-496d-a3c5-0d51713f4b1d)
+)
+
+### Analysis
+![Analysis](![image](https://github.com/user-attachments/assets/1c428b54-8ad9-4c12-bf96-1e1e056615b8)
+)
+
+### Call Scheduling
+![Call scheduler](![image](https://github.com/user-attachments/assets/f9cfb257-df08-4910-bcdc-c71af1b77edb)
+)
+
 
 ---
 
