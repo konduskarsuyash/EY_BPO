@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/035f4d2a-de77-41ca-acc1-beebd708fa17)
 # RESOLVR: AI Workflow Automation for Indian BPOs
 
 RESOLVR is an AI-powered platform that transforms claims processing workflows in Indian BPOs. It automates customer interactions using real-time transcription, sentiment analysis, and intelligent callback scheduling to deliver faster, cost-effective resolutions—boosting agent productivity and client satisfaction.
